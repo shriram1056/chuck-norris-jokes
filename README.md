@@ -4,4 +4,4 @@
 
 **This website uses the chuck norris jokes API from chucknorris.io. This API has the data of tens of chuck norris facts, simply say "make me laugh chuck".**
 
-https://imgur.com/a/lgeEcvS
+![chuck]https://imgur.com/a/lgeEcvS
